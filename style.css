@@ -168,6 +168,3 @@ footer{
     font-size: 12px; 
 }
 
-body {
-    background: var(--bg-url) no-repeat top center/cover !important;
-  }
