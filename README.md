@@ -1,8 +1,8 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-  <strong>🚀 Acesse o projeto online 🚀:</strong><br><br>
-  👉 <a href="https://thaiscalvi.github.io/DevLinks/" target="_blank">Clique aqui para ver o site</a>
+  <strong>🚀 Acesse o projeto online 🚀:</strong><br>
+  👉 <a href="https://thaiscalvi.github.io/DevLinks/" target="_blank">Clique aqui para ver o site</a><br>
 </p>
 
 <p align="center">
