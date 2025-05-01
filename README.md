@@ -2,9 +2,9 @@
 
 <p align="center">
   <strong>🚀 Acesse o projeto online 🚀:</strong><br>
-  👉 <a href="https://thaiscalvi.github.io/DevLinks/" target="_blank">Clique aqui para ver o site</a><br>
+  <a href="https://thaiscalvi.github.io/DevLinks/" target="_blank">Clique aqui para ver o site</a>
 </p>
-
+<br><br><br>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
