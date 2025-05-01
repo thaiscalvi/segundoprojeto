@@ -1,5 +1,8 @@
 <h1 align="center"> DevLinks </h1>
 
+## 🚀 Acesse o projeto online:
+👉 [Clique aqui para ver o site](https://thaiscalvi.github.io/DevLinks/)
+
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
@@ -44,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ pela Thais Calvi com apoio da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ por Thais Calvi com apoio da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
