@@ -1,10 +1,8 @@
 <h1 align="center"> DevLinks </h1>
 
-## 🚀 Acesse o projeto online:
-👉 [Clique aqui para ver o site](https://thaiscalvi.github.io/DevLinks/)
-
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+  <strong>🚀 Acesse o projeto online 🚀:</strong><br><br>
+  👉 <a href="https://thaiscalvi.github.io/DevLinks/" target="_blank">Clique aqui para ver o site</a>
 </p>
 
 <p align="center">
